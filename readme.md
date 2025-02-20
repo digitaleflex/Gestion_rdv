@@ -1,4 +1,4 @@
-# Blog PHP avec Bootstrap
+# Gestion des rendez-vous médiacal avec Tailwind CSS
 
 Un blog moderne et élégant développé en PHP avec une interface utilisateur Bootstrap 5, enrichi d'animations et d'effets visuels modernes.
 
